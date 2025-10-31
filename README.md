@@ -5,7 +5,9 @@
 ### User Profile — User Persona
 
 **Name:** Anna 
+
 **Age:** 32  
+
 **Occupation:** IT Recruiter at a tech company  
 
 **About Anna:**  

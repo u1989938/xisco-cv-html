@@ -35,7 +35,7 @@ This structure mirrors how recruiters naturally read resumes — starting with i
 
 ---
 
-### Visual Design (≈220 words)
+### Visual Design
 
 The visual design follows a **clean, modern, and professional** aesthetic inspired by digital resumes. The layout uses a **two-column structure** to balance visual stability with content presentation.  
 

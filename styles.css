@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+}
+body {
+    background: #ddd;
+    padding: 30px;
+}
+
+.resume {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    background: #fff;
+    word-wrap: break-word;
+}
+
+.sidebar {
+    width: 30%;
+    background: #083d77;
+    color: #fff;
+    padding: 25px;
+}
+
+.profile-pic {
+    width: 60%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.name {
+    font-size: 26px;
+    margin-bottom: 6px;
+}
+
+.title {
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+.section-title {
+    margin-top: 25px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    padding-bottom: 5px;
+}
+
+.contact,
+.languages ul,
+.skills-grid ul {
+    font-size: 14px;
+    list-style: none;
+    margin-top: 10px;
+}
+
+.contact li {
+    margin: 6px 0;
+}
+
+.contact i {
+    margin-right: 8px;
+}
+
+.skills-grid {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.skills-grid li {
+    margin: 5px 0;
+}
+
+.languages li {
+    margin: 6px 0;
+}
+
+.linkedin {
+    margin-top: 40px;
+    font-size: 14px;
+}
+
+.linkedin i {
+    margin-right: 8px;
+    font-size: 18px;
+}
+
+.content {
+    width: 70%;
+    padding: 30px;
+    color: #222;
+}
+
+h2 {
+    font-size: 18px;
+    color: #083d77;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.item {
+    margin-bottom: 18px;
+}
+
+.item strong {
+    font-size: 15px;
+}
+
+.date {
+    float: right;
+    font-size: 12px;
+    font-style: italic;
+    color: #666;
+}
+
+.item ul {
+    margin-top: 5px;
+    padding-left: 20px;
+    font-size: 14px;
+}
+
+.item p {
+    font-size: 14px;
+    margin-top: 3px;
+}
